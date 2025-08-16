@@ -23,7 +23,7 @@ If you are developing a production application, we recommend using TypeScript wi
 **🚴 Rider:** rider6@gmail.com &nbsp;&nbsp; **🔑 Password:** 123456  
 
  # Client Side Github Repository Link: [Client Repo](https://github.com/mdtahsinislam/zap-shift-clint)
-# Server Side Github Repository Link:** [Server Repo](https://github.com/mdtahsinislam/zap-shift-server)
+# Server Side Github Repository Link: [Server Repo](https://github.com/mdtahsinislam/zap-shift-server)
    
    
 
