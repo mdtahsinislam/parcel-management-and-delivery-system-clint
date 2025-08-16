@@ -15,12 +15,13 @@ If you are developing a production application, we recommend using TypeScript wi
 # Live link:  https://parcelmanagementsystem-mdtahsin.web.app
 
 ## Important info:
-   Admin: admin@gmail.com
-   password: 123456
-   User: user1@gmail.com
-   password: 123456
-   Rider : rider6@gmail.com
-   password: 123456
+  
+   **👑 Admin:** admin@gmail.com &nbsp;&nbsp; **🔑 Password:** 123456  
+
+**👤 User:** user1@gmail.com &nbsp;&nbsp; **🔑 Password:** 123456  
+
+**🚴 Rider:** rider6@gmail.com &nbsp;&nbsp; **🔑 Password:** 123456  
+
  # Client Side Github Repository Link: [Client Repo](https://github.com/mdtahsinislam/zap-shift-clint)
 # Server Side Github Repository Link:** [Server Repo](https://github.com/mdtahsinislam/pet-adoupt-platfrom-serverr)
    
