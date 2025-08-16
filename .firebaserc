@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "zap-shift-4e510"
+  },
+  "targets": {
+    "zap-shift-4e510": {
+      "hosting": {
+        "parcelmanagementsystem-mdtahsin": [
+          "parcelmanagementsystem-mdtahsin"
+        ],
+        "zap-shift-4e510": [
+          "zap-shift-4e510"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
