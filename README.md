@@ -11,6 +11,18 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-# 🎯parcelmanagementsystem
+# 🎯Parcel Management System
 # Live link:  https://parcelmanagementsystem-mdtahsin.web.app
+
+## Important info:
+   Admin: admin@gmail.com
+   password: 123456
+   User: user1@gmail.com
+   password: 123456
+   Rider : rider6@gmail.com
+   password: 123456
+ # Client Side Github Repository Link:** [Client Repo](https://github.com/mdtahsinislam/pet-adoupt-platfrom-client)
+# Server Side Github Repository Link:** [Server Repo](https://github.com/mdtahsinislam/pet-adoupt-platfrom-serverr)
+   
+   
 
