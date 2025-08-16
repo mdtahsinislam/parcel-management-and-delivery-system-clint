@@ -21,7 +21,7 @@ If you are developing a production application, we recommend using TypeScript wi
    password: 123456
    Rider : rider6@gmail.com
    password: 123456
- # Client Side Github Repository Link:** [Client Repo](https://github.com/mdtahsinislam/pet-adoupt-platfrom-client)
+ # Client Side Github Repository Link: [Client Repo](https://github.com/mdtahsinislam/zap-shift-clint)
 # Server Side Github Repository Link:** [Server Repo](https://github.com/mdtahsinislam/pet-adoupt-platfrom-serverr)
    
    
