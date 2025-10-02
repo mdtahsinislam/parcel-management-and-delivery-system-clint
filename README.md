@@ -80,8 +80,7 @@ If you are developing a production application, we recommend using TypeScript wi
 # ✨ Technology Stack
 * Frontend: React.js / Tailwind CSS / daisyui
 * Backend: Node.js + Express.js
-* Database: MongoDB ![MongoDB Logo](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-* * Database: <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="25"/> MongoDB
+* Database: <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="25"/> MongoDB
 * Authentication: Firebase Authentication / JWT
 * Image Hosting:  imgbb
 * Payments: Stripe Integration  
