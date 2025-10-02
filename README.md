@@ -34,7 +34,7 @@ If you are developing a production application, we recommend using TypeScript wi
   - **👤 User:** user1@gmail.com &nbsp;&nbsp; **🔑Password:** 123456  
 
   - **🚴 Rider:** rider6@gmail.com &nbsp;&nbsp; **🔑Password:** 123456  
-* ### Database : ParcelDb
+* ### Database File Name : ParcelDb
 
 * ## 🔗 Client Side Github Repository Link: [Client Repo](https://github.com/mdtahsinislam/parcel-management-and-delivery-system-clint)
 * ## 🔗 Server Side Github Repository Link: [Server Repo](https://github.com/mdtahsinislam/parcel-management-and-delivery-system-server)
