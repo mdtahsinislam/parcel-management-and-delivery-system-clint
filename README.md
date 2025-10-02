@@ -25,7 +25,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ---
 # 🚀 Live Website Showcase
-* ## Live link: https://parcelmanagementsystem-mdtahsin.web.app
+* ## 🌐 Live link: https://parcelmanagementsystem-mdtahsin.web.app
 
 - ## Important info:
   
@@ -36,8 +36,8 @@ If you are developing a production application, we recommend using TypeScript wi
   - **🚴 Rider:** rider6@gmail.com &nbsp;&nbsp; **🔑Password:** 123456  
 * ### Database : ParcelDb
 
-* ## Client Side Github Repository Link: [Client Repo](https://github.com/mdtahsinislam/parcel-management-and-delivery-system-clint)
-* ## Server Side Github Repository Link: [Server Repo](https://github.com/mdtahsinislam/parcel-management-and-delivery-system-server)
+* ## 🔗 Client Side Github Repository Link: [Client Repo](https://github.com/mdtahsinislam/parcel-management-and-delivery-system-clint)
+* ## 🔗 Server Side Github Repository Link: [Server Repo](https://github.com/mdtahsinislam/parcel-management-and-delivery-system-server)
 ---
 
 ## 📊 System Overview Table
