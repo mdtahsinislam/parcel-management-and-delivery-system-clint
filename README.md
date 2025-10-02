@@ -99,7 +99,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## <u>User Roles</u>
 
-1. The **ZAPSHIFT** system is designed around three core user roles — **User**, **Admin**, and **Rider** — each responsible for distinct stages in the parcel delivery process.
+1. The **Parcel Management & Delivery System**  is designed around three core user roles — **User**, **Admin**, and **Rider** — each responsible for distinct stages in the parcel delivery process.
 2. Their coordinated efforts ensure a seamless end-to-end logistics experience across Bangladesh.
 
 ---
