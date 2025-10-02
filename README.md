@@ -68,7 +68,7 @@ If you are developing a production application, we recommend using TypeScript wi
 - **Transparent Commission Structure**
 
 ---
----
+
 
 # ⚡ Important Info
 - Admins can also access all user routes  
