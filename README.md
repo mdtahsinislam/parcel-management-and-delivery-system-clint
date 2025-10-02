@@ -116,7 +116,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ---
 
-### 🛠️ <u>2. Admin</u>
+### 👑 <u>2. Admin</u>
 
 1. **Admins** are system operators responsible for managing parcel logistics and overseeing operational efficiency. Their key functions include:
 
