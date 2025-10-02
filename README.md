@@ -448,8 +448,7 @@ npm start
 * Hosting: Frontend (Client site): Firebase Hosting | Backend (Server site): Vercel Hosting
 * Database: MongoDB Atlas
 ---
-📝 License
-This project is open source. Add your preferred license (e.g., MIT). Happy coding 🚀
+# 📝  Happy coding 🚀
 
 
 
