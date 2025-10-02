@@ -445,8 +445,8 @@ npm install
 npm start
 ```
 ## 🛠️ Deployment
-* Hosting: Frontend (Client site): Firebase Hosting | Backend (Server site): Vercel Hosting
-* Database: MongoDB Atlas
+* **Hosting: Frontend(Client site): Firebase Hosting | Backend (Server site): Vercel Hosting**
+* **Database: MongoDB Atlas**
 ---
 # 📝  Happy coding 🚀
 
