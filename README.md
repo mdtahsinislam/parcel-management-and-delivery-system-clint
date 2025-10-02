@@ -44,9 +44,9 @@ If you are developing a production application, we recommend using TypeScript wi
 
 | Role               | Key Responsibilities                                                                      | Earnings/Benefits                              |
 | ------------------ | ----------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| **Merchant**       | - Book parcels<br>- Pay charges<br>- Track status<br>- Review service                     | - Real-time tracking<br>- Feedback opportunity |
+| **Merchant or User**       | - Book parcels<br>- Pay charges<br>- Track status<br>- Review service                     | - Real-time tracking<br>- Feedback opportunity |
 | **Admin**          | - Assign agents<br>- Manage routing<br>- Oversee warehouses<br>- Monitor operations       | - System control<br>- Operational oversight    |
-| **Delivery Agent** | - Collect/Deliver parcels<br>- Update status<br>- OTP confirmation<br>- Warehouse handoff | - ৳20 per delivery                             |
+| **Delivery Agent or Rider** | - Collect/Deliver parcels<br>- Update status<br>- OTP confirmation<br>- Warehouse handoff | - ৳20 per delivery                             |
 
 ---
 
