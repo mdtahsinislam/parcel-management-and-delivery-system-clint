@@ -78,16 +78,16 @@ If you are developing a production application, we recommend using TypeScript wi
 ---
 
 # ✨ Technology Stack
-* Frontend: React.js / Tailwind CSS / daisyui
-* Backend: Node.js + Express.js
-* Database: <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="25"/> MongoDB
-* Authentication: Firebase Authentication / JWT
-* Image Hosting:  imgbb
-* Payments: Stripe Integration  
-* Hosting: Frontend (Client site): Firebase Hosting | Backend (Server site): Vercel Hosting
-* Toaster/Alerts: react-toastify & SweetAlert2
-* Slider:  DaisyUI Carousel
-* Version Control: GitHub
+* **Frontend: React.js / Tailwind CSS / daisyui**
+* **Backend: Node.js + Express.js**
+* **Database: <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="25"/> MongoDB**
+* **Authentication: Firebase Authentication / JWT**
+* **Image Hosting:  imgbb**
+* **Payments: Stripe Integration**  
+* **Hosting: Frontend (Client site): Firebase Hosting | Backend (Server site): Vercel Hosting**
+* **Toaster/Alerts: react-toastify & SweetAlert2**
+* **Slider:  DaisyUI Carousel**
+* **Version Control: GitHub** 
 
 ---
 
