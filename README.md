@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 ---
 
-# 🎯Parcel Management & Delivery System
+# 🎯Parcel Management & Delivery System 🎁
 ---
 
 ## <u> 📖 Overview</u>
