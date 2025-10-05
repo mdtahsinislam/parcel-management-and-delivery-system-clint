@@ -1,48 +1,10 @@
 
 
-# ⚛️ React + ⚡ Vite
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
-
----
-
- **This template provides a minimal setup to get React working in Vite**  
-with HMR (Hot Module Replacement) and ESLint rules.
-
----
-
-## 🔌 Official Plugins
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) — uses [Babel](https://babeljs.io/) for Fast Refresh  
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) — uses [SWC](https://swc.rs/) for Fast Refresh  
-
----
-
-
-
-![Vite + React Banner](https://github.com/vitejs/vite-plugin-react/raw/main/playground/public/vite-react-banner.png)
-![Vite + React Banner](https://github.com/vitejs/vite-plugin-react/raw/main/playground/public/vite-react-banner.png)
-
----
 
 
 
 
 
----
-
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-
----
 # 🎯Parcel Management & Delivery System 🎁
 ---
 
