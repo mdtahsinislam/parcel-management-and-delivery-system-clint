@@ -448,7 +448,7 @@ npm start
 * **Hosting: Frontend(Client site): Firebase Hosting | Backend (Server site): Vercel Hosting**
 * **Database: MongoDB Atlas**
 ---
-# 📝  Happy coding 🚀
+#   Happy coding 💻
 
 
 
