@@ -4,12 +4,10 @@
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge)
 
 ---
 
-🚀 **This template provides a minimal setup to get React working in Vite**  
+ **This template provides a minimal setup to get React working in Vite**  
 with HMR (Hot Module Replacement) and ESLint rules.
 
 ---
@@ -23,6 +21,7 @@ with HMR (Hot Module Replacement) and ESLint rules.
 
 
 
+![Vite + React Banner](https://github.com/vitejs/vite-plugin-react/raw/main/playground/public/vite-react-banner.png)
 ![Vite + React Banner](https://github.com/vitejs/vite-plugin-react/raw/main/playground/public/vite-react-banner.png)
 
 ---
