@@ -17,10 +17,6 @@
 
 
 
----
-# 🚀 Live Website Showcase
-* ## 🌐 Live link: https://parcelmanagementsystem-mdtahsin.web.app
-
 - ## Important info:
   
   - **👑 Admin:** admin@gmail.com &nbsp;&nbsp; **🔑Password:** 123456  
